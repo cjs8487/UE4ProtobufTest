@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="UE4" targetName="FakeTarget" />
+      <config projectName="UE4" targetName="Experiments-Win64-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game" />
+      <config projectName="UE4" targetName="ExperimentsEditor-Win64-DebugGame" />
+      <config projectName="UE4" targetName="ExperimentsEditor-Win64-Shipping" />
+      <config projectName="UE4" targetName="UE4Editor" />
+      <config projectName="UE4" targetName="UE4Game-Win64-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game-Win64-Shipping" />
+      <config projectName="UE4" targetName="Experiments" />
+      <config projectName="UE4" targetName="UE4Editor-Win64-Shipping" />
+      <config projectName="UE4" targetName="UE4Editor-Win64-DebugGame" />
+      <config projectName="UE4" targetName="ExperimentsEditor" />
+      <config projectName="UE4" targetName="Experiments-Win64-Shipping" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a16e3bdc-3457-4ddc-86af-b7349c4d028d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1PvU9YH00dGeh8uk4RCy0qeTkhF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.FakeTarget">
+    <configuration name="Experiments-Win64-DebugGame" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="Experiments-Win64-DebugGame" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Experiments-Win64-Shipping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="Experiments-Win64-Shipping" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Experiments" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="Experiments" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentsEditor-Win64-DebugGame" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="ExperimentsEditor-Win64-DebugGame" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentsEditor-Win64-Shipping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="ExperimentsEditor-Win64-Shipping" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentsEditor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="ExperimentsEditor" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FakeTarget" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="FakeTarget" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="UE4" RUN_TARGET_NAME="FakeTarget">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UE4Editor-Win64-DebugGame" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="UE4Editor-Win64-DebugGame" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UE4Editor-Win64-Shipping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="UE4Editor-Win64-Shipping" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UE4Editor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="UE4Editor" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UE4Game-Win64-DebugGame" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="UE4Game-Win64-DebugGame" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UE4Game-Win64-Shipping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="UE4Game-Win64-Shipping" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UE4Game" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="UE4Game" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Experiments" />
+      <item itemvalue="CMake Application.Experiments-Win64-DebugGame" />
+      <item itemvalue="CMake Application.Experiments-Win64-Shipping" />
+      <item itemvalue="CMake Application.ExperimentsEditor" />
+      <item itemvalue="CMake Application.ExperimentsEditor-Win64-DebugGame" />
+      <item itemvalue="CMake Application.ExperimentsEditor-Win64-Shipping" />
+      <item itemvalue="CMake Application.FakeTarget" />
+      <item itemvalue="CMake Application.UE4Editor" />
+      <item itemvalue="CMake Application.UE4Editor-Win64-DebugGame" />
+      <item itemvalue="CMake Application.UE4Editor-Win64-Shipping" />
+      <item itemvalue="CMake Application.UE4Game" />
+      <item itemvalue="CMake Application.UE4Game-Win64-DebugGame" />
+      <item itemvalue="CMake Application.UE4Game-Win64-Shipping" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a16e3bdc-3457-4ddc-86af-b7349c4d028d" name="Default Changelist" comment="" />
+      <created>1566753927910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566753927910</updated>
+      <workItem from="1566753952679" duration="882000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
